@@ -1,0 +1,17 @@
+{
+  "name": "uitLiveCodeApi",
+  "version": "1.0.0",
+  "description": "A live code API using Node.js and MongoDb with Mongoose.",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/robmyers82/uitLiveCodeApi"
+  },
+  "author": "Rob Myers",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.13.3",
+    "express": "^4.13.3",
+    "mongoose": "^4.1.2"
+  }
+}
